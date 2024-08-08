@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "Cariotta",
+        "last_name": "Brewse",
+        "email": "cbrewse0@typepad.com",
+        "gender": "Female",
+        "ip_address": "153.58.159.103"
+    },
+    {
+        "id": 2,
+        "first_name": "Erma",
+        "last_name": "Fronsek",
+        "email": "efronsek1@ucla.edu",
+        "gender": "Female",
+        "ip_address": "194.153.19.178"
+    },
+    {
+        "id": 3,
+        "first_name": "Elisabet",
+        "last_name": "Guntrip",
+        "email": "eguntrip2@discovery.com",
+        "gender": "Female",
+        "ip_address": "191.140.183.41"
+    },
+    {
+        "id": 4,
+        "first_name": "Fara",
+        "last_name": "Carlos",
+        "email": "fcarlos3@oracle.com",
+        "gender": "Female",
+        "ip_address": "102.166.89.153"
+    },
+    {
+        "id": 5,
+        "first_name": "Fernando",
+        "last_name": "Van Haeften",
+        "email": "fvanhaeften4@businesswire.com",
+        "gender": "Male",
+        "ip_address": "81.66.240.114"
+    }
+]
